@@ -1,0 +1,6 @@
+@ResumeTracker.API_HostAddress = http://localhost:5209
+
+GET {{ResumeTracker.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
